@@ -23,6 +23,7 @@ Vueについて学んだ内容
 <summary>
 ソースコード（……）
 </summary>
+
 html
 ```html
 <div id='app'>
@@ -57,7 +58,7 @@ var app = new Vue({
   }
 })
 ```
-}}
+</details>
 
 #### ランダム（キャッシュ）
 {{collapse(ソースコード…)
