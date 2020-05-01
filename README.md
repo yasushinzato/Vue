@@ -61,7 +61,12 @@ var app = new Vue({
 </details>
 
 #### ランダム（キャッシュ）
-{{collapse(ソースコード…)
+
+<details>
+<summary>
+ソースコード（……）
+</summary>
+
 html
 ```html
 <div id='app'>
@@ -114,6 +119,7 @@ var app = new Vue({
 <summary>
 ソースコード（……）
 </summary>
+	
 html
 ```html
 <div id='app'>
@@ -158,6 +164,7 @@ CSSクラスの設定をバインディングで指定する。
 <summary>
 ソースコード（……）
 </summary>
+	
 html
 ```html
 <div id="app">
@@ -189,8 +196,6 @@ html
   <p>
     Hello <span v-bind:style="styleObject">Vue.js</span>
   </p>
-  
-  
 
 </div>
 
@@ -275,6 +280,7 @@ var app = new Vue({
 <summary>
 ソースコード（……）
 </summary>
+	
 以下は参考ソース
 html
 ```html
@@ -351,6 +357,7 @@ Ctrlキーが押されているとき、altキーが押されているとき、s
 <summary>
 ソースコード（……）
 </summary>
+	
 html
 ```html
 <div id="app">
@@ -460,6 +467,7 @@ var app = new Vue({
 <summary>
 ソースコード（……）
 </summary>
+	
 html
 ```html
 <div id="app">
