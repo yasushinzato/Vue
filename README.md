@@ -1,6 +1,6 @@
 Vueについて学んだ内容
 
-Readmeのソースコードは下記サイト（jsfiddle）で入力
+Readmeのソースコードは下記サイト（jsfiddle）で入力  
 https://jsfiddle.net/
 
 ## 算出プロパティ
